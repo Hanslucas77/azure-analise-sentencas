@@ -1,0 +1,64 @@
+# 🧠 Análise de Sentenças com Inteligência Artificial - Projeto DIO + Azure
+
+Este repositório contém o projeto prático desenvolvido durante o curso de **Inteligência Artificial com Azure** na plataforma **Digital Innovation One (DIO)**. O objetivo foi aplicar os conhecimentos adquiridos utilizando os serviços de IA da Microsoft Azure para analisar sentimentos em sentenças de texto.
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- [Microsoft Azure](https://azure.microsoft.com/)
+- Azure Cognitive Services
+- Análise de Texto (Text Analytics API)
+- Portal Azure
+- Git e GitHub
+
+---
+
+## 📊 Objetivo do Projeto
+
+Utilizar a **API de Análise de Sentimentos** do Azure para classificar frases como **positivas**, **negativas** ou **neutras**, aplicando conceitos de **Processamento de Linguagem Natural (NLP)** na nuvem, sem precisar treinar modelos de Machine Learning do zero.
+
+---
+
+## 🛠️ Como Foi Desenvolvido
+
+1. Criação de uma conta gratuita no Azure.
+2. Ativação do recurso **Cognitive Services** e escolha da API de **Text Analytics**.
+3. Geração da **chave de API** e **endpoint** no portal do Azure.
+4. Testes via portal e também com ferramentas como Postman ou scripts simples.
+5. Análise de diversas sentenças e interpretação dos resultados de sentimento.
+
+---
+
+## 🧪 Exemplos de Sentenças Testadas
+
+| Sentença                          | Resultado       | Score       |
+|----------------------------------|-----------------|-------------|
+| "Estou muito feliz com este dia!"| Positiva        | 0.98        |
+| "Isso é horrível e decepcionante"| Negativa        | 0.05        |
+| "O tempo está nublado."          | Neutra          | 0.50        |
+
+---
+
+
+---
+
+## 💡 Aprendizados e Insights
+
+- Entendi como **usar IA sem precisar programar modelos complexos**.
+- Aprendi a **configurar recursos no Azure** e interpretar os resultados de APIs cognitivas.
+- Vi na prática como **serviços em nuvem podem facilitar soluções baseadas em IA** para o mundo real.
+
+---
+
+## 📎 Link do Projeto
+
+🔗 [Link para este repositório no GitHub](https://github.com/Hanslucas77/azure-analise-sentencas/new/main)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **LUCAS HANS* durante o curso de Azure na **DIO**.
+
+---
